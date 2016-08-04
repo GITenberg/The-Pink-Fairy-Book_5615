@@ -1,0 +1,52 @@
+_repo: The-Pink-Fairy-Book_5615
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+description: The Cat's Elopement; How The Dragon Was Tricked; The Goblin And The Grocer;
+  The House In The Wood; Uraschimataro And The Turtle; The Slaying Of The Tanuki;
+  The Flying Trunk; The Snow-man; The Shirt-collar; The Princess In The Chest; The
+  Three Brothers; The Snow-queen; The Fir-tree; Hans, The Mermaid's Son; Peter Bull;
+  The Bird 'grip'; Snowflake; I Know What I Have Learned; The Cunning Shoemaker; The
+  King Who Would Have A Beautiful Wife; Catherine And Her Destiny; How The Hermit
+  Helped To Win The King's Daughter; The Water Of Life; The Wounded Lion; The Man
+  Without A HeartThe Two Brothers; Master And Pupil; The Golden Lion; The Sprig Of
+  Rosemary; The White Dove; The Troll's Daughter; Esben And The Witch; Princess Minon-minette;
+  Maiden Bright-eye; The Merry Wives; King Lindorm; The Jackal, The Dove, And The
+  Panther; The Little Hare; The Sparrow With The Slit Tongue; The Story Of Ciccu;
+  Don Giovanni De La Fortuna.
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5615'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Folklore'
+- !lcsh 'Fairy tales'
+- GITenberg
+tableOfContents: The Cat's Elopement -- How the Dragon was Tricked -- The Goblin and
+  the Grocer -- The House in the Wood -- Uraschimataro and the Turtle -- The Slaying
+  of the Tanuki -- The Flying Trunk -- The Snow Man. -- The Shirt-Collar -- The Princess
+  in the Chest -- The Three Brothers -- The Snow-queen -- The Fir-Tree -- Hans, the
+  Mermaid's Son -- Peter Bull -- The Bird 'Grip' -- Snowflake -- I know what I have
+  learned -- The Cunning Shoemaker -- The King who would have a Beautiful Wife --
+  Catherine and her Destiny -- How the Hermit helped to win the King's Daughter --
+  The Water of Life -- The Wounded Lion -- The Man without a Heart -- The Two Brothers
+  -- Master and Pupil -- The Golden Lion -- The Sprig of Rosemary -- The White Dove
+  -- The Troll's Daughter -- Esben and the Witch -- Princess Minon-Minette -- Maiden
+  Bright-eye -- The Merry Wives -- King Lindorm -- The Jackal, the Dove, and the Panther
+  -- The Little Hare -- The Sparrow with the Slit Tongue -- The Story of Ciccu --
+  Don Giovanni de la Fortuna.
+title: The Pink Fairy Book
+url: http://www.gutenberg.org/ebooks/5615
